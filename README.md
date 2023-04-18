@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Gerome Quantmeyer, working Student at HPI.
-- 👀 I’m interested in webdevelopment, fitness and politics.
-- 🌱 I’m currently learning bootstrap among other webdev related libraries and frameworks.
-- 💞️ I’m looking to collaborate on opensource projects to further my programming skills.
+- 👋 Hi, I’m Gerome Quantmeyer, Student at HPI.
+- 👀 I’m interested in webdevelopment and fitness.
 - 📫 How to reach me: send me an email at gerome.quantmeyer@student.hpi.de
 
 <!---
