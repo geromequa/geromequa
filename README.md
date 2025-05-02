@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Gerome Quantmeyer, Student at HPI.
-- 👀 I’m interested in webdevelopment and fitness.
 - 📫 How to reach me: send me an email at gerome.quantmeyer@student.hpi.de
 
 <!---
